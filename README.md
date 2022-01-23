@@ -1,7 +1,7 @@
 # VAST Sample Video Ads
 Simple VAST Video AdSystem
 
-```bash
+```xml
 <VAST version="3.0">
 	<Ad id="1">
 		<InLine>
